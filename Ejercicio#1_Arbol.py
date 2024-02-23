@@ -1,5 +1,4 @@
-##Escriba un programa de Python para crear un árbol de busqueda binarai
-#equilibrada utilizando elementos de una matriz (dados) donde los elementos
+##Escriba un programa de Python para crear un árbol de busqueda binario equilibrada utilizando elementos de una matriz (dados) donde los elementos
 #de la matriz se ordena en orden ascendente.
 
 class TreeNode(object):
